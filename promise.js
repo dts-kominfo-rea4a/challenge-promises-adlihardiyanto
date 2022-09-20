@@ -1,6 +1,6 @@
 const { promiseTheaterIXX, promiseTheaterVGC } = require("./external.js");
 
-// TODO: Buat fungsi promiseOutput sesuai ketentuan readme
+// TODO: Buat fungsi promiseOutput sesuai ketentuan readme Tugas
 const promiseOutput = async (sikap) => {
 
   const theaterIXX = await promiseTheaterIXX();
